@@ -11,4 +11,6 @@ This project automates access control by ensuring only authorized IP addresses r
 - Lists  
 - Automation  
 
-### 📂 View Full Project 
+[📄 Click here to view the full project](https://github.com/jtowns14/Python-File-Update-Algorithm/blob/main/Portfolio-Algorithm%20for%20file%20updates%20in%20Python.pdf)
+
+
